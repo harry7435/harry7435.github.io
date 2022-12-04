@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+
+form {
+    text-align: center
+}
+
+h1 {
+    text-align: center
+}
+
+h2 {
+    text-align: center
+}
+
+#quote {
+    text-align: center
+}
+
+#weather {
+    text-align: center
+}
+
+image {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
